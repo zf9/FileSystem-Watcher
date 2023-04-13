@@ -3,6 +3,10 @@
 ### Connect with me on Discord
 If you have any questions or just want to chat, you can reach me on Discord at `ZF9#7655`.
 
+![Screenshot](./Images/EnableDump.png)
+![Screenshot](./Images/AllDump.png)
+![Screenshot](./Images/Other.png)
+
 ### ImGui Base
 This project uses [ImGui-Standalone](https://github.com/adamhlt/ImGui-Standalone) as its base. ImGui is a bloat-free graphical user interface library for C++.
 
