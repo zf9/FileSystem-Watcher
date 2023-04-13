@@ -11,7 +11,7 @@ If you have any questions or just want to chat, you can reach me on Discord at `
 This project uses [ImGui-Standalone](https://github.com/adamhlt/ImGui-Standalone) as its base. ImGui is a bloat-free graphical user interface library for C++.
 
 ### Hammafia UI
-This project uses a theme made by [HammafiaUI](https://github.com/iswahyudi440/HammafiaUI) inspired by the original Hammafia FiveM Lua Executor Theme.
+This project uses a theme made by [HammafiaUI](https://github.com/iswahyudi440/HammafiaUI) inspired by the original Hammafia FiveM Lua Executor.
 
 
 ### Powered by OpenAI
