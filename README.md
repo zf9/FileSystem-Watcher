@@ -10,6 +10,10 @@ If you have any questions or just want to chat, you can reach me on Discord at `
 ### ImGui Base
 This project uses [ImGui-Standalone](https://github.com/adamhlt/ImGui-Standalone) as its base. ImGui is a bloat-free graphical user interface library for C++.
 
+### Hammafia UI
+This project uses a theme made by [HammafiaUI](https://github.com/iswahyudi440/HammafiaUI) inspired by the original Hammafia FiveM Lua Executor Theme.
+
+
 ### Powered by OpenAI
 This project makes use of OpenAI's advanced language model [ChatGPT](https://chat.openai.com). ChatGPT is capable of generating human-like text responses, making it a powerful tool for a variety of applications.
 
